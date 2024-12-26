@@ -1,0 +1,11 @@
+.btn {
+    width: 100px;
+    padding: 20px;
+    margin: 0px auto;
+    margin-top: 300px;
+    margin-left: 40vw;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
